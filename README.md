@@ -10,14 +10,14 @@ Actuellement en candidature pour un poste de **Chef de projet Data Analyst** che
 
 ---
 
-##  Stack technique
+## 🛠️ Stack technique
 
 | Domaine | Outils |
 |---------|--------|
 | Analyse & traitement | Python · Pandas · NumPy · Scipy · Scikit-learn |
-| Visualisation & BI | Power BI · DAX · Power Query · Matplotlib · Seaborn · Plotly Express |
+| Visualisation & BI | Power BI · DAX · Power Query · Matplotlib · Seaborn |
 | Bases de données | SQL · PostgreSQL · DBT · Snowflake |
-| Géomatique | ArcGIS · QGIS · ENVI · GNSS · SIG · Bases de données spatiales |
+| Géomatique | GNSS · SIG · Bases de données spatiales |
 | Environnement | Git · Jupyter · GeoPandas |
 
 ---
@@ -31,6 +31,9 @@ Actuellement en candidature pour un poste de **Chef de projet Data Analyst** che
 | **P07 — Dashboard Power BI Sanitoral** | Pilotage de 104 projets IT & Marketing · 101 alertes détectées · Star Schema 7 tables · 13 mesures DAX | Power BI · DAX · Power Query | [Voir le projet](https://github.com/Joseph-Marie1/p07-dashboard-powerbi-sanitoral) |
 | **P08 — Égalité H/F (DBT + Snowflake)** | Analyse sociodémographique · enrichissement INSEE · 6 modèles DBT · insight : 22.87% femmes en data | DBT · Snowflake · Jinja · Power BI | [Voir le projet](https://github.com/Joseph-Marie1/p08-egalite-hf-dbt-snowflake) |
 | **P12 — Détection de faux billets** | 4 modèles ML comparés · Régression Logistique retenue · AUC 0.9995 · 1 seul faux négatif sur 300 | Python · Scikit-learn · ML | [Voir le projet](https://github.com/Joseph-Marie1/p12-detection-faux-billets) |
+| **P06 — Gestion données boutique** | Fusion 3 sources · marge -634% détectée (Champagne Egly-Ouriet) · analyse 20/80 · recommandation audit prix | Python · Pandas · Outliers | [Voir le projet](https://github.com/Joseph-Marie1/p06-gestion-donnees-boutique) |
+| **P09 — Analyse ventes librairie** | CA 11.85M€ · Gini 0.446 · Top 5% = 21% CA · impact âge confirmé · sexe sans impact (test stat) | Python · SciPy · Pearson · Gini | [Voir le projet](https://github.com/Joseph-Marie1/p09-ventes-librairie) |
+| **P10 — Eau potable mondiale (DWFA)** | 194 pays · 18 ans · écart urbain/rural 35pts · indice priorité 40/40/20 · Somalia top 1 | Power BI · DAX · Star Schema | [Voir le projet](https://github.com/Joseph-Marie1/p10-eau-potable-dwfa) |
 
 ### 📚 Autres projets de formation
 
@@ -63,8 +66,11 @@ Dans le cadre du **Projet 13 OpenClassrooms**, j'ai constitué un portfolio comp
 ## 🔭 Veille métier
 
 Je suis activement la data actualité via :
+
 **Twitter/X** : @IA_lesechos · @mmitchell_ai · @lebigdata_fr
+
 **YouTube** : Pragmatic Works · Ali Ahmad
+
 **Web** : [data-to-viz.com](https://www.data-to-viz.com) · Wakelet
 
 ---
