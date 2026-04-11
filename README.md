@@ -1,6 +1,6 @@
 # Bonjour, je suis Kouamé Ghyslain KANGA 👋
 
-### Data Analyst · ex-Géomaticien · Consultant Data ESN
+### Data Analyst · Géomaticien · Consultant Data ESN
 
 > *"De la carte au dashboard — je transforme les données en décisions."*
 
@@ -17,7 +17,7 @@ Actuellement en candidature pour un poste de **Chef de projet Data Analyst** che
 | Analyse & traitement | Python · Pandas · NumPy · Scipy · Scikit-learn |
 | Visualisation & BI | Power BI · DAX · Power Query · Matplotlib · Seaborn |
 | Bases de données | SQL · PostgreSQL · DBT · Snowflake |
-| Géomatique | GNSS · SIG · Bases de données spatiales |
+| Géomatique | ArcGIS · QGIS · ENVI · GNSS · SIG · Bases de données spatiales |
 | Environnement | Git · Jupyter · GeoPandas |
 
 ---
