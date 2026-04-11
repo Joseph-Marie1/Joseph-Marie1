@@ -67,7 +67,7 @@ Dans le cadre du **Projet 13 OpenClassrooms**, j'ai constitué un portfolio comp
 
 | Projet | Description | Lien |
 |--------|-------------|------|
-| **Uranus VTC** | Application web de réservation VTC en production — conception et développement complets | [uranusvtc.com](https://uranusvtc.com) |
+| **Uranus VTC** | Application web de réservation VTC en production - conception et développement complets | [uranusvtc.com](https://uranusvtc.com) |
 
 ## 🔭 Veille métier
 
