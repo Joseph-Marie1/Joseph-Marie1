@@ -61,7 +61,7 @@ Dans le cadre du **Projet 13 OpenClassrooms**, j'ai constitué un portfolio comp
 - 📄 [Analyse du besoin métier Aéroworld](https://github.com/Joseph-Marie1/portfolio-data-analyst)
 - 🎬 [Vidéo de formation Power BI — 21min](https://www.loom.com/share/3569d378bd674c6ea2977589f0d05c3e)
 - 📝 [Procédure de documentation d'un graphique](https://github.com/Joseph-Marie1/portfolio-data-analyst)
-- - 📝 [Carte mentales](https://github.com/Joseph-Marie1/portfolio-data-analyst)
+- 📝 [Carte mentales](https://github.com/Joseph-Marie1/portfolio-data-analyst)
 
 ---
 
