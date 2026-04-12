@@ -33,7 +33,7 @@ Actuellement en candidature pour un poste de **Chef de projet Data Analyst** che
 | **P08 — Égalité H/F (DBT + Snowflake)** | Analyse sociodémographique · enrichissement INSEE · 6 modèles DBT · insight : 22.87% femmes en data | DBT · Snowflake · Jinja · Power BI | [Voir le projet](https://github.com/Joseph-Marie1/p08-egalite_hf_dbt_snowflake) |
 | **P12 — Détection de faux billets** | 4 modèles ML comparés · Régression Logistique retenue · AUC 0.9995 · 1 seul faux négatif sur 300 | Python · Scikit-learn · ML | [Voir le projet](https://github.com/Joseph-Marie1/p12-Detection-de-Faux-Billets-Machine-Learning-ONCFM) |
 | **P06 — Gestion données boutique** | Fusion 3 sources · marge -634% détectée (Champagne Egly-Ouriet) · analyse 20/80 · recommandation audit prix | Python · Pandas · Outliers | [Voir le projet](https://github.com/Joseph-Marie1/p06-gestion_ventes_boutique_avec_python) |
-| **P09 — Analyse ventes librairie** | CA 11.85M€ · Gini 0.446 · Top 5% = 21% CA · Moyenne mobile · impact âge confirmé · sexe sans impact (test stat) | Python · SciPy · Pearson · Gini | [Voir le projet](https://github.com/Joseph-Marie1/p09-Analyse_ventes_librairie_avec_python) |
+| **P09 — Analyse ventes librairie** | CA 11.85M€ · Gini 0.446 · Top 5% = 21% CA · Moyenne mobile · impact âge confirmé · sexe sans impact (test stat) | Python · SciPy · Pearson · Gini | [Voir le projet](https://github.com/Joseph-Marie1/p09-Analyse_des_ventes_librairie_avec_python) |
 | **P10 — Eau potable mondiale (DWFA)** | 194 pays · 18 ans · écart urbain/rural 35pts · indice priorité 40/40/20 · Somalia top 1 | Power BI · DAX · Star Schema | [Voir le projet](https://github.com/Joseph-Marie1/p10-etude_eau_potable_powerbi_dwfa) |
 
 ### 📚 Autres projets de formation
