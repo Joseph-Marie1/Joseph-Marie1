@@ -29,7 +29,7 @@ Actuellement en candidature pour un poste de **Chef de projet Data Analyst** che
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
 | **P05 — Base de données immobilière** | RGPD · Gestion des contraintes · Granularités | PostgreSQL · Looping · mcd · mld · Diagramme UML · SQL| [Voir le projet](https://github.com/Joseph-Marie1/p05-bdd_immobiliere_postgresql) |
-| **P07 — Dashboard Power BI Sanitoral** | Pilotage de 104 projets IT & Marketing · 101 alertes détectées · Star Schema 7 tables · 13 mesures DAX | Power BI · DAX · Power Query | [Voir le projet](https://github.com/Joseph-Marie1/p07-dashboard-powerbi-sanitoral) |
+| **P07 — Dashboard Power BI** | Pilotage de 104 projets IT & Marketing · 101 alertes détectées · Star Schema 7 tables · 13 mesures DAX | Power BI · DAX · Power Query | [Voir le projet](https://github.com/Joseph-Marie1/p07-dashboard-powerbi-sanitoral) |
 | **P08 — Égalité H/F (DBT + Snowflake)** | Analyse sociodémographique · enrichissement INSEE · 6 modèles DBT · insight : 22.87% femmes en data | DBT · Snowflake · Jinja · Power BI | [Voir le projet](https://github.com/Joseph-Marie1/p08-egalite_hf_dbt_snowflake) |
 | **P12 — Détection de faux billets** | 4 modèles ML comparés · Régression Logistique retenue · AUC 0.9995 · 1 seul faux négatif sur 300 | Python · Scikit-learn · ML | [Voir le projet](https://github.com/Joseph-Marie1/p12-detection_faux_billets_avec_python) |
 | **P06 — Gestion données boutique** | Fusion 3 sources · marge -634% détectée (Champagne Egly-Ouriet) · analyse 20/80 · recommandation audit prix | Python · Pandas · Outliers | [Voir le projet](https://github.com/Joseph-Marie1/p06-gestion_ventes_boutique_avec_python) |
