@@ -87,7 +87,7 @@ Je suis activement la data actualité via :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kouamé_Ghyslain_KANGA-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kouamé-ghyslain-kanga)
 [![Email](https://img.shields.io/badge/Email-ghyslainkanga@gmail.com-D14836?style=flat&logo=gmail)](mailto:ghyslainkanga@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Joseph--Marie1-181717?style=flat&logo=github)](https://github.com/Joseph-Marie1)
+[![GitHub](https://img.shields.io/badge/GitHub-Joseph--Marie1-181717?style=flat&logo=github)](https://joseph-marie1.github.io/)
 
 ---
 
